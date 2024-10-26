@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chrono-calc/static/css/main.f41211a5.css",
+    "main.js": "/chrono-calc/static/js/main.fc803ca5.js",
+    "static/js/453.dbf5373d.chunk.js": "/chrono-calc/static/js/453.dbf5373d.chunk.js",
+    "index.html": "/chrono-calc/index.html",
+    "main.f41211a5.css.map": "/chrono-calc/static/css/main.f41211a5.css.map",
+    "main.fc803ca5.js.map": "/chrono-calc/static/js/main.fc803ca5.js.map",
+    "453.dbf5373d.chunk.js.map": "/chrono-calc/static/js/453.dbf5373d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f41211a5.css",
+    "static/js/main.fc803ca5.js"
+  ]
+}
