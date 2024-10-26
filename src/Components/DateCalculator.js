@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { useSpring, animated } from 'react-spring';
 
 function DateCalculator({ onNewCalculation }) {
-    const [initialDate, setInitialDate] = useState('');
+    const [initialDate, setInitialDate] = useState(new Date().toISOString().split('T')[0]);
     const [duration, setDuration] = useState(0);
     const [unit, setUnit] = useState('days'); // Added state for units
     const [calculatedDate, setCalculatedDate] = useState(null);
