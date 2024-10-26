@@ -1,6 +1,6 @@
 # Chrono calc
 
-A simple and user-friendly web application built with React that allows users to calculate the difference between dates, view previous calculations, and more. 
+A simple and user-friendly web application built with React that allows users to Add a specified number of days or weeks to a date and obtain the resulting date.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ A simple and user-friendly web application built with React that allows users to
 
 ## Features
 
-- Calculate the difference between two dates
+- Add a specified number of days or weeks to a date and obtain the resulting date.
 - View previous calculations with a history log
 - Responsive design for mobile and desktop views
 - User-friendly interface with error handling
